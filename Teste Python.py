@@ -11,3 +11,4 @@ print("divisão ")
 string = " divisão "      
 print(string, Divisível)
 print(f"variável {A}+{B}/2= {Divisível}")
+print("variável {A}+{B}/2= {Divisível}")
