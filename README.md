@@ -37,4 +37,4 @@ No último ano percebi que havia necessidade em me atualizar, e descobri que a l
 - 🔭 Atualmente estou trabalhando em uma Fintech que desenvolve produtos para o mercado financeiro.
 - 🌱 Atualmente estou aprendendo <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 - 📫 Como entrar em contato comigo: E-mail jullyhp@gmail.com <img width="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-jAjlrweu_EZTVwI1rCtcONqJiI4wG32RA&usqp=CAU" />
--->
+
